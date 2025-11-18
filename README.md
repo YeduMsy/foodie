@@ -9,6 +9,9 @@ A modern, responsive, and animated landing page designed for a high-end food cha
 | ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
 *(Note: The site is fully responsive across all device sizes.)*
 
+Go on.. Try it!
+https://yedumsy.github.io/foodie/
+
 ## 🚀 Features
 
 * **Responsive Design:** Fully adapts to Mobile, Tablet, and Desktop screens using the Bootstrap 4 Grid System.
